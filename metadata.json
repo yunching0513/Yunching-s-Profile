@@ -1,0 +1,6 @@
+{
+  "name": "Wu Yun-Ching Portfolio",
+  "description": "Personal website and research portfolio of Wu Yun-Ching (吳昀慶) — Designer, Urban Researcher, and Sustainability Advocator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
